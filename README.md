@@ -1,6 +1,8 @@
 # CSIT314_Project
 CSIT 314 Spring 2023 - Riya, Salma, Mishka, Sherif, Laith - Repository for our CSIT314 Final Project testing codes.
 
+The following codes were written using Python, and CODE1 and CODE2 utilize pythons TKinter library to display a GUI. 
+
 314_CODE1 :
 
 defines the assessment functionality of iLearn, where students are given three subjects to choose from to take an exam. Once they've chosen a subject, they can choose to start their exam (where a timer also starts to record how long the student has taken) Each subject has its own respective set of questions and right answers. Based on the students entered answers and the right answer, a mark is assigned to them as they are taking the test. Once they are done answering all the questions, they get assigned a letter grade from A to F, which is displayed in a message box. Their performance and answers of past exams are recorded so students can view them within each console session. 
